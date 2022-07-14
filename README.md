@@ -1,1 +1,1 @@
-# Hackerrank-Samples
+www.patika.dev
