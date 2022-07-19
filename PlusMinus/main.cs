@@ -44,7 +44,7 @@ class Result
             }
         }
         
-        Cosole.WritLine($"(positives / length:F6));
+        Cosole.WritLine($"(positives / length:F6)");
         Cosole.WritLine($"(negatives / length:F6)");
         Cosole.WritLine($"(zeros / length:F6)");
     }
